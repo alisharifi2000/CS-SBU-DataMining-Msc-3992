@@ -1,0 +1,23 @@
+instructors:
+  - name: Saeed Reza Kheradpisheh
+    profile_pic: /_images/pp/prof.jpg
+    webpage: https://www.linkedin.com/in/saeed-reza-kheradpisheh-7a0b18155/
+
+teaching_assistants:
+  - name: Navid Kashi
+    profile_pic: /_images/pp/ta01.jpg
+    webpage: https://www.linkedin.com/in/navid-kashi-a3863588/
+
+  - name: Ali Sharifi
+    profile_pic: /_images/pp/ta02.jpg
+    webpage: https://www.linkedin.com/in/ali-sharifi-a31569134/
+   
+  - name: Alireza Javahery
+    profile_pic: /_images/pp/ta04.jpg
+    webpage: https://www.linkedin.com/in/alireza-javaheri-8aa652169/
+    
+  - name: Ahmadreza Sharifianzade
+    profile_pic: /_images/pp/ta03.jpg
+    webpage: https://www.linkedin.com/in/ahmadreza-sharifianzade/
+    
+   

@@ -1,0 +1,55 @@
+# Site settings
+course_name: Data Mining
+course_description: 
+
+course_semester: "Spring 2021"
+
+baseurl: "/CS-SBU-DataMining-Msc-3992" # the subpath of your site, e.g. /blog/
+url: "http://alisharifi2000.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Shahid Beheshti University"
+schoolurl: "https://sbu.ac.ir"
+#twitter_username: username 
+
+address: |
+    Shahid Beheshti University,
+    Shahid Shahriari Square,
+    Daneshjou Boulevard,
+    Shahid Chamran Highway,
+    Tehran, Iran
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+google_analytics: G-81SM43E48E
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css', '_js']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
