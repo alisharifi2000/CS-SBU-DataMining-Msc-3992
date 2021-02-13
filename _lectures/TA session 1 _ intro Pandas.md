@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-02-12T8:00:00+4:30
-title: TA Session 1 - Introduction to Pandas
+title: TA Session 1 - Introduction to Pandas & Numpy
 thumbnail: /static_files/presentations/smaller.jpg
 links: 
     - url: https://colab.research.google.com/drive/1WNTwQuGZxspN37rsKEfujWxAG3xkcpM5?usp=sharing
