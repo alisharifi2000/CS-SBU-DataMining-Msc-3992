@@ -11,4 +11,4 @@ for submit your project :
 2. make a folder with 'Name-StudentId' for example  AliSharifi-95222046.
 3. add subfolder project1 , project 2 , ... in folder that you built in step 2.
 4. add your report and code in each project subfolder.
-5. pull request for merging to this repository.
+5. pull request for merging .
